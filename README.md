@@ -53,7 +53,7 @@ Form1.cs: Handles the login logic and credential validation.
 Form2.cs: The core game engine, containing the ball class, collision algorithms, and GDI+ rendering logic.
 
 ## 🤝 Contact
-Wang Yong-hong (王詠弘) Department of Computer Science and Information Engineering, Fu Jen Catholic University.
+Main email : dhkgodez@gmail.com
 
 ## 📸 Preview
 ![Billiards Gameplay](./image/runningpic1.png)
